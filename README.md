@@ -80,9 +80,3 @@
 - VS Code (Development Environment)
 - JavaScript (Simulation Logic)
 - HTML / CSS (Visualization)
-
----
-
-## 💬 Summary
-비행기 탑승 과정을 시뮬레이션하고,  
-다양한 전략을 실험하여 **최적의 탑승 방식을 데이터 기반으로 도출하는 프로젝트**입니다.
